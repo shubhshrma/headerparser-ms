@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "useragent": "^2.2.1"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
